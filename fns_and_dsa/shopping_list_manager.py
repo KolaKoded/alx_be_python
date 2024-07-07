@@ -1,6 +1,8 @@
 shopping_list = []
 
 def display_menu():
+    print(f"Shopping List Manager")
+    print("Shopping List Manager")
     print(f?['\"]Shopping List Manager['\"])
     print("1. Add Item")
     print("2. Remove Item")
